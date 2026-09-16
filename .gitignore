@@ -1,0 +1,5 @@
+*.log
+*.exe
+*.o
+__pycache__/
+.vscode/
